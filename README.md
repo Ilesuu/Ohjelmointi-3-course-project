@@ -1,3 +1,10 @@
+# Project information
+This is a university project I did for the programming 3 course. It is a game about trying to steal energy from the buses of tampere in a ufo while evading the chasing fighter jet.
+
+Please note that this repository is for code demonstration purposes only, it will not run because it is lacking the courseside code library.
+This was a group project, so not all of the code is mine: I worked mainly on the Player, Chaser, City, GameWindow and Unittest classes. For a more exact work breakdown, refer to commit history or loppudokumentti.pdf
+
+
 # How to play the game
 
 1. First Run the program
